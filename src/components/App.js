@@ -24,7 +24,8 @@ const [budget,setBudget]=useState("")
         
 
         <table>
-          <thead>Items you can buy are in Green color</thead>
+          <thead>
+            <th>Items you can buy are in Green color</th></thead>
 
         {
           
